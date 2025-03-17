@@ -1,0 +1,14 @@
+{
+  "name": "discord-bot-notif",
+  "version": "1.0.0",
+  "description": "Bot Discord dengan fitur fetch data dan cron schedule",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cron": "^2.4.0",
+    "discord.js": "^14.13.0",
+    "node-fetch": "^2.6.9"
+  }
+}
