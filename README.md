@@ -18,7 +18,7 @@ Bot ini berfungsi untuk mengirim notifikasi livestream secara otomatis ke channe
 ## 🧪 Contoh Idn Notifikasi Discord
 ![Contoh Notifikasi IDN](./idn.png)
 
-## 🧪 Contoh Notifikasi Discord
+## 🧪 Contoh SHOWROOM Notifikasi Discord
 ![Contoh Notifikasi SHOWROOM](./showroom.png)
 
 ## 📂 Instalasi
