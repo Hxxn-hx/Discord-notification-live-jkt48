@@ -15,11 +15,12 @@ Bot ini berfungsi untuk mengirim notifikasi livestream secara otomatis ke channe
 - `node-fetch` (v2)
 - `cron`
 
-## 🧪 Contoh Idn Notifikasi Discord
-![Contoh Notifikasi IDN](./idn.png)
+## 📸 Contoh Notifikasi Discord
 
-## 🧪 Contoh SHOWROOM Notifikasi Discord
-![Contoh Notifikasi SHOWROOM](./showroom.png)
+<p align="center">
+  <img src="idn.png" alt="Contoh Notifikasi IDN" width="48%" style="margin-right:10px;" />
+  <img src="showroom.png" alt="Contoh Notifikasi SHOWROOM" width="48%" />
+</p>
 
 ## 📂 Instalasi
 
