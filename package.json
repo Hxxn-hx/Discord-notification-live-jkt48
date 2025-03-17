@@ -1,14 +1,17 @@
 {
-  "name": "discord-bot-notif",
+  "name": "Hxxn",
   "version": "1.0.0",
-  "description": "Bot Discord dengan fitur fetch data dan cron schedule",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
-    "cron": "^2.4.0",
-    "discord.js": "^14.13.0",
-    "node-fetch": "^2.6.9"
+    "cron": "^4.1.0",
+    "discord.js": "^14.18.0",
+    "node-fetch": "^2.7.0"
   }
 }
